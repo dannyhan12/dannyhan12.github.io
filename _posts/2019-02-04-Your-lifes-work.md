@@ -1,7 +1,9 @@
+---
 layout: page
 title: "Your lifes work"
 date: 2019-02-04 12:00:00 -0000
 categories: PERSONAL
+---
 
 Your life's work
 
