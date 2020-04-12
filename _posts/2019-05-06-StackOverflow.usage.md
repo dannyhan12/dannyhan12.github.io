@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+comments: true
 title: Contributing to StackOverflow
 date: 2019-05-06
 Categories: Stackoverflow, C++, Python
