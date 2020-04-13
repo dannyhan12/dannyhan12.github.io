@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This site is about how I spend my days.
 
-### More Information
+I think most of the posts will be about software development, but it could veer into other things I'm interested in.
 
-A place to include any other types of information that you'd like to include about yourself.
+This could include other things that I'm studying, learning, watching, reading, listening, doing or building.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+So, yeah, this blog could contain anything. If you like what you are reading, please post a comment, so that I can feel your love.
