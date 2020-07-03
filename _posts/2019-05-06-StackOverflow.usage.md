@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Contributing to StackOverflow
 date: 2019-05-06
-Categories: Stackoverflow, C++, Python
+categories: [Stackoverflow, C++, Python]
 ---
 
 [StackOverflow](http://stackoverflow.com/) is an awesome source of information and code samples. I think it's safe to say that all programmers consume information from StackOverflow. In contrast, I'd guess that far less people contribute questions, answers, comments and votes to StackOverflow.

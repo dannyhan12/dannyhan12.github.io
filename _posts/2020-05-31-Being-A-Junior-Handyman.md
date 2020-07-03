@@ -3,7 +3,6 @@ layout: post
 title: Being a Junior Handyman
 date: 2020-05-31
 categories: [DIY]
-tags: [DIY]
 comments: true
 ---
 
